@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "AJATT Links",
+    "version": "1.0",
+    "description": "Links to help with AJATT",
+    "background": {
+        "scripts": [
+            "ajatt-links.js"
+        ]
+    },
+    "permissions": [
+        "menus",
+        "activeTab"
+    ]
+}
