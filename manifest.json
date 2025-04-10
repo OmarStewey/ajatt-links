@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "AJATT Links",
-    "version": "1.0",
+    "version": "1.11",
     "description": "Links to help with AJATT",
     "background": {
         "scripts": [
